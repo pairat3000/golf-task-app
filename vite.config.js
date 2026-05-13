@@ -10,8 +10,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Golf Task App',
-        short_name: 'GolfTask',
+        name: 'Task App',
+        short_name: 'TaskApp',
         description: 'Personal Project Management + AI Planner',
         theme_color: '#0ea5e9',
         background_color: '#0f1117',
